@@ -1,4 +1,4 @@
-# ML_Model_Dataset
+# ML_LinearRegression
 Creating a machine learning model and training the dataset.
 ### Work in progress - May.05.2023
 In my ambition to learn more about AI and ML related concepts, I made a small write up related to obtaining a dataset, defining/training a model, and applying statistical methodology and ML fundamentals in hopes of learning more about the subject. See below. 
