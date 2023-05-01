@@ -1,7 +1,7 @@
 # ML_Model_Dataset
 Creating a machine learning model and training the dataset.
 
-In my ambition to learn more about AI and ML related concepts, I made a small write up related to obtaining a dataset, defining/training a model, and applying statistical methodology and ML fundamentals in hopes of learning more about the subject. See below.
+In my ambition to learn more about AI and ML related concepts, I made a small write up related to obtaining a dataset, defining/training a model, and applying statistical methodology and ML fundamentals in hopes of learning more about the subject. See below. 
 
 [Abstract]
 
@@ -52,6 +52,8 @@ Let's look again at our completed dataset. Looking a lot better!
 [Train the model]
 
 
+[Deployment and Monitoring of our Model]
+This is covered in a separate repository located  [here](https://github.com/endlessparadigm/ML_Model_Deploy).
 
 
 
