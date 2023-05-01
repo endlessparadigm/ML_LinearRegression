@@ -51,7 +51,13 @@ Let's look again at our completed dataset. Looking a lot better! :)
 
 ## [Training the model]
 
-For our model, we will utilize a linear regression model. 
+For our model, we will utilize a linear regression model. Let's check our textbook again and make sure we have the basics correct.
+
+![image](https://user-images.githubusercontent.com/9099847/235462815-9be67d54-d2da-468f-8282-3c1ce7d11c66.png)
+
+
+
+https://www.sciencedirect.com/topics/mathematics/simple-regression-model#:~:text=The%20simple%20regression%20model%20assumes,term%20%CE%B5%20encompassing%20omitted%20factors.
 
 ```
 > Y=a+bX+u
