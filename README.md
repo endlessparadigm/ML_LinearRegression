@@ -1,6 +1,6 @@
 # ML_Model_Dataset
 Creating a machine learning model and training the dataset.
-
+### Work in progress - May.05.2023
 In my ambition to learn more about AI and ML related concepts, I made a small write up related to obtaining a dataset, defining/training a model, and applying statistical methodology and ML fundamentals in hopes of learning more about the subject. See below. 
 
 ## [Abstract]
@@ -55,6 +55,30 @@ For our model, we will utilize a linear regression model. Let's check our textbo
 
 ![image](https://user-images.githubusercontent.com/9099847/235462815-9be67d54-d2da-468f-8282-3c1ce7d11c66.png)
 
+# Setting the test
+
+# Running the model
+
+## [Retrieving the results]
+
+At this point we're finished with our effort. The results were obtained and additional steps can be taken accordingly.
+
+## [Deployment and Monitoring of our Model]
+
+With the results provided, we can send this to our Ops team to create an automated pipeline to assist us or other analysts in reviewing the predictive model. This is covered in a separate repository located [here](https://github.com/endlessparadigm/ML_Model_Deploy). Let's remember to send the correct requirements so they know exactly what to do. 
+
+## [Additional Analysis]
+
+Additional strategies can now be taken to improve on our effort.
+1. Return to the data source and verify with the author or data gathering authority on the accuracy or authenticity of the records. If the data was gathered from manual surveys, do we know the degree of error on it? Do we feel comfortable in regards to the quality of data entry or data entry validation in regards to the values kept.
+2. Based on the model utilized, can we improve upon the existing model for more accurate results?
+3. Similar to the points above, can we revise the specifications expected by the business or review the business parameters provided? How is this being translated to the manufacturing team?
+4. 
+
+
+
+
+
 
 
 https://www.sciencedirect.com/topics/mathematics/simple-regression-model#:~:text=The%20simple%20regression%20model%20assumes,term%20%CE%B5%20encompassing%20omitted%20factors.
@@ -70,14 +94,6 @@ a = the intercept
 b = the slope
 u = the regression residual.
 ```
-
-
-
-
-## [Deployment and Monitoring of our Model]
-
-This is covered in a separate repository located [here](https://github.com/endlessparadigm/ML_Model_Deploy).
-
 
 
 
